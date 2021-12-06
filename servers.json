@@ -1,0 +1,22 @@
+[
+	{
+		"countryName" : "Italy",
+		"devicesOnline" : 2,
+		"pritunlName" : "1.ovpn",
+		"id" : "51",
+		"location" : "Roma",
+		"serverName" : "One",
+		"status" : true,
+		"type" : "game"
+	},
+	{
+		"countryName" : "England",
+		"devicesOnline" : 5,
+		"pritunlName" : "2.ovpn",
+		"id" : "66",
+		"location" : "London",
+		"serverName" : "Two",
+		"status" : true,
+		"type" : "game"
+	}
+]
