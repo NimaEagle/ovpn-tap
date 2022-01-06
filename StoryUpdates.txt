@@ -1,1 +1,12 @@
+;aiu;
 
+[Update]
+Name = GreenNet
+ProductVersion = 2.0.0.0
+URL = https://github.com/NimaEagle/ovpn-tap/raw/main/GreenNet.Installer.exe
+Size = 15953153
+SHA256 = 4EF8B060E5C1A148DD1E80407656608A07F5A80DD6CCD330CEE9D085E7E56149
+MD5 = 5c11a15f0f97e29f747a21bf04d36bc7
+ServerFileName = GreenNet.Installer.exe
+RegistryKey = HKUD\Software\Anonymith\GreenNet\Version
+Version = 2.0.0.0
